@@ -1,3 +1,6 @@
-# My Awesome Book
+# 变态日记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+致变态的自己
+
+铭记未变态的岁月
+
